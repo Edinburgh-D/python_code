@@ -87,3 +87,5 @@ for i in range(3, 10):
     # if not os.path.exists(file_path):
     #     os.makedirs(file_path)
     # getImage(midUrl, file_path)
+
+
